@@ -17,11 +17,11 @@
 </div>
 
 <!--Intro start-->
-- 🔭 Actualmente busco trabajo de **Programador Web FullStack**, pero he desarrollado proyectos propios de muestra utilizando **Python, React, JavaScript, HTML, CSS, BootStrap, SQL, MySQLWorkbench**
+- 🔭 Actualmente busco trabajo de **Data Scientist/Data Analist/Data Engineer**, pero he desarrollado proyectos propios de muestra utilizando **Python, React, JavaScript, HTML, CSS, BootStrap, SQL, MySQLWorkbench** como Programador WEB
 
-- 🌱 Estoy aprendiendo **Python, React, implementación de API´S y el uso de IA en proyectos y entornos de trabajo**
+- 🌱 Estoy aprendiendo **Python, IA generativa, estadística, análisis y visualización de datos, machine learning, deep learning y MLOPs **
 
-- ☁️ Me interesa la programación con **Python**, aunque también tengo experiencia con **PHP, Java y JavaScript**. Actualmente me estoy formando y trabajando de manera autónoma con **Python 3.13.7**
+- ☁️ Me interesa la programación con **Python**, aunque también tengo experiencia con **PHP, Java y JavaScript**. Actualmente me estoy formando como **Data Science e IA Generativa en Evolve Academy**.
 
 - 💬 Puedes preguntarme sobre **Python, PHP, Java, JavaScript, Symfony, HTML, CSS, Bootstrap, SQL, GIT, GitHub, ORACLE**
 
