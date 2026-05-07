@@ -62,18 +62,20 @@ class OscarFernandez:
 # Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,docker,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,docker,git,github,vscode,linux,pytorch,tensorflow,fastapi&theme=dark" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG%20Systems-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge"/>
+
 </p>
 
 ---
