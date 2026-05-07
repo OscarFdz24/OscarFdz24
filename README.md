@@ -79,31 +79,86 @@ class OscarFernandez:
 ---
 
 # Featured Projects
-## AI PDF Assistant
-## Predictive Analytics System
 
-> Machine learning solution designed to forecast business metrics and optimize decision-making processes.
+<table>
+<tr>
+<td width="50%">
 
-### Tech Stack
-Python · Scikit-learn · Pandas · SQL
+## ⚽ AI Football Performance Analyst
 
----
+<img src="assets/football-llm.png" width="100%" alt="AI Football Performance Analyst"/>
 
-## Interactive Data Dashboard
+LLM-powered football analytics assistant designed to analyze player metrics and generate tactical insights from the 2024/25 season.
 
-> Data visualization platform focused on transforming raw data into actionable insights.
+**Tech Stack**  
+Python · LLMs · Pandas · Data Analysis · Generative AI
 
-### Tech Stack
-Power BI · Python · SQL · Streamlit
+<br>
 
----
+<a href="https://github.com/OscarFdz24/Asistente_Experto_LLM_Oscar_Fernandez_Evolve">
+  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## Generative AI Automation
+</td>
+<td width="50%">
 
-> AI-powered workflow automation project integrating LLMs and intelligent pipelines.
+## 📈 Customer Intelligence ML Model
 
-### Tech Stack
-Python · APIs · OpenAI · Automation Tools
+<img src="assets/customer-ml.png" width="100%" alt="Customer Intelligence ML Model"/>
+
+Machine Learning project focused on analyzing customer behavior and building predictive models to support business decision-making.
+
+**Tech Stack**  
+Python · Scikit-learn · Pandas · NumPy · Machine Learning
+
+<br>
+
+<a href="https://github.com/OscarFdz24/Proyecto_ML_Clientes_Oscar_Fernandez">
+  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🌍 Global Store BI Dashboard
+
+<img src="assets/global-store-bi.png" width="100%" alt="Global Store BI Dashboard"/>
+
+Business Intelligence dashboard designed to explore sales, profitability and performance metrics from a global retail dataset.
+
+**Tech Stack**  
+Power BI · Data Modeling · DAX · Business Intelligence · Data Visualization
+
+<br>
+
+<a href="https://github.com/OscarFdz24/PowerBI_Informe_Modelado_Tienda_Global">
+  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%">
+
+## 🏠 Airbnb Data Analysis
+
+<img src="assets/airbnb-eda.png" width="100%" alt="Airbnb Data Analysis"/>
+
+Exploratory Data Analysis project focused on extracting insights from Airbnb data through cleaning, visualization and statistical analysis.
+
+**Tech Stack**  
+Python · Pandas · Matplotlib · Seaborn · EDA
+
+<br>
+
+<a href="https://github.com/OscarFdz24/ProyectoEDA_Airbnb_Evolve">
+  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
