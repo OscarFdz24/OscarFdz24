@@ -9,7 +9,7 @@ Data Scientist & Generative AI Engineer
 </h3>
 
 <p align="center">
-Building AI-powered solutions focused on automation, prediction and real business impact.
+Construyendo soluciones basadas en IA Generativa, Machine Learning y análisis de datos para resolver problemas reales.
 </p>
 
 <br>
@@ -173,24 +173,13 @@ Python · Pandas · Matplotlib · Seaborn · EDA
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OscarFdz24&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarFdz24&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 # Connect With Me
 
 <p align="center">
 
 <a href="mailto:oscarcontactweb@gmail.com">
 <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p>oscarcontactweb@gamil.com</p>
 </a>
 
 <a href="https://www.linkedin.com/in/óscar-fernandez-chinchilla-lopez-b95469313">
@@ -202,7 +191,7 @@ Python · Pandas · Matplotlib · Seaborn · EDA
 ---
 
 <p align="center">
-<i>"Turning data into intelligent solutions."</i>
+<i>"Convirtiendo los datos en soluciones inteligentes y aplicadas a negocio."</i>
 </p>
 </p>
 
