@@ -88,7 +88,7 @@ class OscarFernandez:
 
 <img src="assets/football-llm.png" width="100%" alt="AI Football Performance Analyst"/>
 
-LLM-powered football analytics assistant designed to analyze player metrics and generate tactical insights from the 2024/25 season.
+Asistente basado en IA Generativa y LLMs diseñado para analizar métricas avanzadas de jugadores de fútbol de la temporada 2024/25 y generar insights tácticos y de rendimiento.
 
 **Tech Stack**  
 Python · LLMs · Pandas · Data Analysis · Generative AI
@@ -102,11 +102,11 @@ Python · LLMs · Pandas · Data Analysis · Generative AI
 </td>
 <td width="50%">
 
-## 📈 Customer Intelligence ML Model
+## 📈 Customer Predict ML Model
 
 <img src="assets/customer-ml.png" width="100%" alt="Customer Intelligence ML Model"/>
 
-Machine Learning project focused on analyzing customer behavior and building predictive models to support business decision-making.
+Proyecto de Machine Learning enfocado en el análisis del comportamiento de clientes y la creación de modelos predictivos para apoyar la toma de decisiones de negocio.
 
 **Tech Stack**  
 Python · Scikit-learn · Pandas · NumPy · Machine Learning
@@ -127,7 +127,7 @@ Python · Scikit-learn · Pandas · NumPy · Machine Learning
 
 <img src="assets/global-store-bi.png" width="100%" alt="Global Store BI Dashboard"/>
 
-Business Intelligence dashboard designed to explore sales, profitability and performance metrics from a global retail dataset.
+Dashboard de Business Intelligence desarrollado en Power BI para analizar ventas, rentabilidad y métricas clave de rendimiento empresarial a nivel global.
 
 **Tech Stack**  
 Power BI · Data Modeling · DAX · Business Intelligence · Data Visualization
@@ -145,7 +145,7 @@ Power BI · Data Modeling · DAX · Business Intelligence · Data Visualization
 
 <img src="assets/airbnb-eda.png" width="100%" alt="Airbnb Data Analysis"/>
 
-Exploratory Data Analysis project focused on extracting insights from Airbnb data through cleaning, visualization and statistical analysis.
+Proyecto de análisis exploratorio de datos (EDA) centrado en descubrir patrones, tendencias y relaciones dentro de datos de Airbnb mediante visualización y análisis estadístico.
 
 **Tech Stack**  
 Python · Pandas · Matplotlib · Seaborn · EDA
