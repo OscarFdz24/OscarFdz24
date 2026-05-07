@@ -178,13 +178,20 @@ Python · Pandas · Matplotlib · Seaborn · EDA
 <p align="center">
 
 <a href="mailto:oscarcontactweb@gmail.com">
-<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-<p>oscarcontactweb@gamil.com</p>
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/óscar-fernandez-chinchilla-lopez-b95469313">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+</p>
+
+<p align="center">
+  
+📩 <b>Email:</b> oscarcontactweb@gmail.com
+
+🔗 <b>LinkedIn:</b> www.linkedin.com/in/óscar-fernandez-chinchilla-lopez-b95469313
 
 </p>
 
