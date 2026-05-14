@@ -123,6 +123,27 @@ Python · Scikit-learn · Pandas · NumPy · Machine Learning
 </tr>
 
 <tr>
+
+<tr>
+<td colspan="2" align="center">
+
+## 📍 POIs Recommendation System
+
+<img src="assets/pois-recommender.png" width="80%" alt="POIs Recommendation System"/>
+
+Sistema de recomendación de puntos de interés (POIs) diseñado para sugerir ubicaciones relevantes a usuarios mediante técnicas de análisis de datos y recomendación personalizada.
+
+**Tech Stack**  
+Python · Recommendation Systems · Machine Learning · Pandas · Data Analysis
+
+<br>
+
+<a href="https://github.com/OscarFdz24/TFG_POIs_Recommender_Oscar_Fernandez">
+  <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
 <td width="50%">
 
 ## 🌍 Global Store BI Dashboard
