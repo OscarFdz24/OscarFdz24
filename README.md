@@ -86,7 +86,7 @@ class OscarFernandez:
 <tr>
 <td width="50%">
 
-## ⚽ AI Football Performance Analyst
+## ⚽ Analista IA profesional de fútbol
 
 <img src="assets/football-llm.png" width="100%" alt="AI Football Performance Analyst"/>
 
@@ -104,7 +104,7 @@ Python · LLMs · Pandas · Data Analysis · Generative AI
 </td>
 <td width="50%">
 
-## 📈 Customer Predict ML Model
+## 📈 Modelo ML - Predicción de Recompra de un cliente
 
 <img src="assets/customer-ml.png" width="100%" alt="Customer Intelligence ML Model"/>
 
@@ -127,7 +127,7 @@ Python · Scikit-learn · Pandas · NumPy · Machine Learning
 <tr>
 <td colspan="2" align="center">
 
-## 📍 POIs Recommendation System
+## 📍 Sistema de Recomendación/Creación de rutas Turñisticas (TFM)
 
 <img src="assets/pois-recommender.png" width="80%" alt="POIs Recommendation System"/>
 
@@ -146,7 +146,7 @@ Python · Recommendation Systems · Machine Learning · Pandas · Data Analysis
 </tr>
 <td width="50%">
 
-## 🌍 Global Store BI Dashboard
+## 🌍 Dashboard POWER BI - Tienda Global
 
 <img src="assets/global-store-bi.png" width="100%" alt="Global Store BI Dashboard"/>
 
@@ -164,7 +164,7 @@ Power BI · Data Modeling · DAX · Business Intelligence · Data Visualization
 </td>
 <td width="50%">
 
-## 🏠 Airbnb Data Analysis
+## 🏠 Análisis EDA - Airbnb
 
 <img src="assets/airbnb-eda.png" width="100%" alt="Airbnb Data Analysis"/>
 
