@@ -127,7 +127,7 @@ Python · Scikit-learn · Pandas · NumPy · Machine Learning
 <tr>
 <td colspan="2" align="center">
 
-## 📍 Sistema de Recomendación/Creación de rutas Turñisticas (TFM)
+## 📍 Sistema de Recomendación/Creación de rutas Turísticas (TFM)
 
 <img src="assets/pois-recommender.png" width="80%" alt="POIs Recommendation System"/>
 
